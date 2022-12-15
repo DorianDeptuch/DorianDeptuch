@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 📫 How to reach me: 
 
-- LinkedIn: [https://www.linkedin.com/in/doriandeptuch/](https://www.linkedin.com/in/doriandeptuch/ 
+- LinkedIn: [https://www.linkedin.com/in/doriandeptuch/](https://www.linkedin.com/in/doriandeptuch/) 
 - GitHub: [https://github.com/DorianDeptuch](https://github.com/DorianDeptuch)
 - Website: [http://doriandeptuch.github.io/portfolio](http://doriandeptuch.github.io/portfolio)
 - E-mail: [dorian.deptuch@gmail.com](dorian.deptuch@gmail.com)
