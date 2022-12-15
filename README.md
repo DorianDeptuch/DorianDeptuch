@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about Programming, Science, Employment, or anything you'd like!
 - ⚡ Fun fact: I was Time's Person Of The Year in 2006 and the former youngest person in the world
 - 📫 How to reach me: 
-* LinkedIn: [https://www.linkedin.com/in/doriandeptuch/](https://www.linkedin.com/in/doriandeptuch/)
-* GitHub: [https://github.com/DorianDeptuch](https://github.com/DorianDeptuch)
-* Website: [http://doriandeptuch.github.io/portfolio](http://doriandeptuch.github.io/portfolio)
-* E-mail: [dorian.deptuch@gmail.com](dorian.deptuch@gmail.com)
+| LinkedIn: | [https://www.linkedin.com/in/doriandeptuch/](https://www.linkedin.com/in/doriandeptuch/) |
+| GitHub: | [https://github.com/DorianDeptuch](https://github.com/DorianDeptuch) |
+| Website: | [http://doriandeptuch.github.io/portfolio](http://doriandeptuch.github.io/portfolio) |
+| E-mail: | [dorian.deptuch@gmail.com](dorian.deptuch@gmail.com) |
 
