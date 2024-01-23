@@ -1,14 +1,14 @@
 ### Hi there 👋, I'm @DorianDeptuch
-#### I am a self-taught software engineer with experience in front-end and back-end web development.
+#### I'm a 5-year-experienced Software Engineer with a fervor for crafting captivating websites and web applications. I take pride in conceptualizing and developing production-ready single-page applications, continually pushing the boundaries of what's possible. I thrive on learning new technologies and staying ahead of industry trends. I understand the pivotal role of effective communication and collaboration in project success. My focus lies in crafting responsive and user-friendly designs, ensuring a seamless experience across all devices. Accessibility is a core tenet of my work, with a commitment to inclusivity for all users.
 
 <!--
 **DorianDeptuch/DorianDeptuch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
-🔭 I’m currently working on Computer Science knowledge, Data Structures & Algorithms, Design Patterns, Leetcode grinding
+🔭 I’m currently working on Data Structures & Algorithms, Design Patterns, Leetcode grinding
 
-🌱 I’m currently learning and improving TypeScript, SQL, GraphQL
+🌱 I’m currently learning and improving C#, ASP.NET Core MVC, SQL, GraphQL
 
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
